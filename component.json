@@ -1,0 +1,10 @@
+{
+  "name": "respond",
+  "version": "1.2.0",
+  "main": "./respond.src.js",
+  "dependencies": {
+  },
+  "ignore": [
+    "test"
+  ]
+}
